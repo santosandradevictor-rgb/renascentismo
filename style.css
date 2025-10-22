@@ -5,13 +5,19 @@ body {
     font-family: "Metal Mania";
 }
 header{
-    border-bottom: 5px black;
+    border-bottom: solid 2px black;
     padding: 20px;
     font-size: 32px;
-    color: burlywood(255, 217, 0);
+    color: burlywood;
 }
 
 section{
-    background: brown(170, 3, 3);
-    
+    background: brown;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
