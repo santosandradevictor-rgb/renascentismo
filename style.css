@@ -1,0 +1,17 @@
+body {
+    color: black;
+    background: []white;
+    margin: 0px;
+    font-family: "Metal Mania";
+}
+header{
+    border-bottom: 5px black;
+    padding: 20px;
+    font-size: 32px;
+    color: burlywood(255, 217, 0);
+}
+
+section{
+    background: brown(170, 3, 3);
+    
+}
