@@ -11,7 +11,7 @@ header{
     color: burlywood;
 }
 
-section{
+.chamada{
     background: brown;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -20,4 +20,19 @@ section{
 }
 .chamada-texto{
     margin-right: 5%;
-} 
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.categorias-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categoeia{
+    padding-left: 20px;
+    padding-right: 20px;
+}
